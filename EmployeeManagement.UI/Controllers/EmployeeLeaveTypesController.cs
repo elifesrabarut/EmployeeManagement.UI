@@ -13,6 +13,7 @@ namespace EmployeeManagement.UI.Controllers
         private readonly IEmployeeLeaveTypeBusinessEngine _employeeLeaveTypeBusinessEngine;
         public EmployeeLeaveTypesController(IEmployeeLeaveTypeBusinessEngine employeeLeaveTypeBusinessEngine)
         {
+          
             _employeeLeaveTypeBusinessEngine = employeeLeaveTypeBusinessEngine;
         }
         public IActionResult Index()
