@@ -1550,6 +1550,20 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "EmployeeManagement.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
+          "EmployeeManagement.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManagement.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManagement.Common.dll": {}
+        }
+      },
       "EmployeeManagement.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5875,6 +5889,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "EmployeeManagement.Common/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeManagement.Common/EmployeeManagement.Common.csproj",
+      "msbuildProject": "../EmployeeManagement.Common/EmployeeManagement.Common.csproj"
+    },
     "EmployeeManagement.Data/1.0.0": {
       "type": "project",
       "path": "../EmployeeManagement.Data/EmployeeManagement.Data.csproj",
@@ -5884,6 +5903,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
+      "EmployeeManagement.Common >= 1.0.0",
       "EmployeeManagement.Data >= 1.0.0"
     ]
   },
@@ -5894,11 +5914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj",
-      "projectName": "EmployeeManagement.Common",
-      "projectPath": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj",
+      "projectUniqueName": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.BusinessEngine\\EmployeeManagement.BusinessEngine.csproj",
+      "projectName": "EmployeeManagement.BusinessEngine",
+      "projectPath": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.BusinessEngine\\EmployeeManagement.BusinessEngine.csproj",
       "packagesPath": "C:\\Users\\elife\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.Common\\obj\\",
+      "outputPath": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.BusinessEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5918,6 +5938,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj": {
+              "projectPath": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.Common\\EmployeeManagement.Common.csproj"
+            },
             "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj": {
               "projectPath": "C:\\Users\\elife\\OneDrive\\Masaüstü\\EmployeeManagement.UI\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj"
             }

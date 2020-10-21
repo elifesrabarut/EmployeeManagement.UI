@@ -1,0 +1,9 @@
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\bin\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.deps.json
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\bin\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.dll
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\bin\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.pdb
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\obj\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.csprojAssemblyReference.cache
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\obj\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.AssemblyInfoInputs.cache
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\obj\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.AssemblyInfo.cs
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\obj\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.dll
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\obj\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.pdb
+C:\Users\elife\OneDrive\Masaüstü\EmployeeManagement.UI\EmployeeManagement.BusinessEngine\obj\Debug\netcoreapp3.1\EmployeeManagement.BusinessEngine.csproj.CoreCompileInputs.cache
